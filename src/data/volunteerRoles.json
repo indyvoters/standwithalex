@@ -1,0 +1,56 @@
+[
+    {
+        "category": "Tech",
+        "options": [
+            "Online tool expert",
+            "System administration",
+            "Data analytics and research",
+            "Software programming"
+        ]
+    },
+    {
+        "category": "People",
+        "options": [
+            "Motivation and fun creation",
+            "Coordinate people in my area",
+            "On-street petitioner",
+            "Social and video posting",
+            "Phone and text banking"
+        ]
+    },
+    {
+        "category": "Operations",
+        "options": [
+            "Driving/Distribution",
+            "Printing and shipping",
+            "Merch design and sales"
+        ]
+    },
+    {
+        "category": "Messaging",
+        "options": [
+            "Voice of the movement",
+            "Media outreach",
+            "Policy and message creation",
+            "Graphic design",
+            "Video design"
+        ]
+    },
+    {
+        "category": "Interest Groups",
+        "options": [
+            "Community activist coordinator",
+            "Church coordinator",
+            "Political campaign outreach",
+            "Racial/Ethnic coordinator"
+        ]
+    },
+    {
+        "category": "Finance and Risk",
+        "options": [
+            "Legal services",
+            "Chat and message moderation",
+            "Accounting and audit"
+        ]
+    }
+]
