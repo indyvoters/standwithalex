@@ -27,7 +27,6 @@ export default function Hero({ onOpenBio }: HeroProps) {
                 </div>
                 <div className="absolute inset-0 bg-gradient-to-t from-zinc-900 via-zinc-900/40 to-transparent opacity-90"></div>
 
-                {/* Content */}
                 <div className="absolute bottom-0 left-0 w-full p-6 md:p-12 lg:p-24 z-10 flex flex-col items-start justify-end h-full">
                     <span
                         className="inline-block py-1 px-3 border border-zinc-700 rounded-full text-[10px] uppercase tracking-[0.2em] text-zinc-300 mb-4 animate-fade-in-up"

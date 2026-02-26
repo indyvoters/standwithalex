@@ -113,7 +113,7 @@ export default function LandingHeader() {
                     <div className="mt-16 pt-16 border-t border-zinc-900 w-48 flex flex-col items-center space-y-8">
                         <img
                             src="/GARYforgov.svg"
-                            alt="Gary for Gov"
+                            alt="Alex Cabrera for Lieutenant Governor"
                             className="h-auto w-32 opacity-20"
                         />
                         <p className="text-[10px] text-zinc-600 uppercase tracking-[0.4em] font-medium text-center">

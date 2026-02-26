@@ -24,26 +24,26 @@ export const Route = createRootRoute({
       },
       {
         name: 'description',
-        content: 'Gary T. Pierce for Governor of Illinois. Join the mission for 5% of the vote to reclaim independent leadership, lift burdens, and protect God-given rights through the Independence Party.',
+        content: 'Alex Cabrera for Lieutenant Governor of Illinois. Join the mission for 5% of the vote to reclaim independent leadership, lift burdens, and protect God-given rights through the Independence Party.',
       },
       {
-        title: 'Gary Pierce | Governor for Illinois',
+        title: 'Alex Cabrera | Lieutenant Governor for Illinois',
       },
       {
         name: 'apple-mobile-web-app-title',
-        content: 'Gary for Governor',
+        content: 'Alex Cabrera for Lieutenant Governor',
       },
       {
         property: 'og:title',
-        content: 'Gary Pierce | Governor for Illinois',
+        content: 'Alex Cabrera | Lieutenant Governor for Illinois',
       },
       {
         property: 'og:description',
-        content: 'Gary T. Pierce for Governor of Illinois. Join the mission for 5% of the vote to reclaim independent leadership, lift burdens, and protect God-given rights through the Independence Party.',
+        content: 'Alex Cabrera for Lieutenant Governor of Illinois. Join the mission for 5% of the vote to reclaim independent leadership, lift burdens, and protect God-given rights through the Independence Party.',
       },
       {
         property: 'og:image',
-        content: 'https://standwithgary.com/fb-meta.jpg',
+        content: 'https://standwithalex.com/fb-meta.jpg',
       },
       {
         property: 'og:image:width',
@@ -55,7 +55,7 @@ export const Route = createRootRoute({
       },
       {
         property: 'og:url',
-        content: 'https://standwithgary.com',
+        content: 'https://standwithalex.com',
       },
       {
         property: 'og:type',
@@ -67,15 +67,15 @@ export const Route = createRootRoute({
       },
       {
         name: 'twitter:title',
-        content: 'Gary Pierce | Governor for Illinois',
+        content: 'Alex Cabrera | Lieutenant Governor for Illinois',
       },
       {
         name: 'twitter:description',
-        content: 'Gary T. Pierce for Governor of Illinois. Join the mission for 5% of the vote to reclaim independent leadership, lift burdens, and protect God-given rights through the Independence Party.',
+        content: 'Alex Cabrera for Lieutenant Governor of Illinois. Join the mission for 5% of the vote to reclaim independent leadership, lift burdens, and protect God-given rights through the Independence Party.',
       },
       {
         name: 'twitter:image',
-        content: 'https://standwithgary.com/meta-img.jpg',
+        content: 'https://standwithalex.com/meta-img.jpg',
       },
     ],
     links: [
